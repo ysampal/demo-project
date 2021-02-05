@@ -1,0 +1,1 @@
+This is the demo project for Jenkins-Slack integration.
